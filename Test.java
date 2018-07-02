@@ -4,9 +4,7 @@ public class Test {
 
 
 		System.out.println("hello");
-		System.out.println("喝酒断片");
-		System.out.println("你好");
-		System.out.println("ooo");
+	
 
 	}
 }
